@@ -17,10 +17,10 @@ The system combines retrieval-augmented generation (RAG), query normalization, c
 
 ```text
 amwal-chatbot/
-├── data/           # Corpus metadata and evaluation materials
-├── src/            # Indexing, retrieval, re-ranking, and chatbot implementation
-├── evaluation/     # Ragas evaluation and statistical analysis
-└── README.md       # Project introduction
+├── figures/              # High resolution figures from the paper
+├── source-regulatory/    # 68 source documents, the 50-question evaluation (Q&A) set with its reference answers
+├── evaluation/           # Ragas evaluation and statistical analysis
+└── README.md             # Project introduction
 ```
 
 ## Dataset
