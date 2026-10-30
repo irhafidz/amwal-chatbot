@@ -38,7 +38,7 @@ amwal-chatbot/
 4. Compare three configurations: LLM only, RAG with three retrieved passages, and RAG with ten candidates re-ranked to three using `mxbai-rerank-base-v2`.
 5. Evaluate GPT-4o mini and Gemini 3.6 Flash using four Ragas metrics, paired Wilcoxon tests, and user acceptance ratings.
 
-## Main Results
+## Results
 
 GPT-4o mini’s Factual Correctness increased from 0.357 without retrieval to 0.516 with RAG and re-ranking (p = 0.001). Re-ranking improved mean scores for both generators, but its additional gains over basic RAG were not statistically significant. User acceptance averaged 4.51 out of 5.
 
