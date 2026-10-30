@@ -1,16 +1,19 @@
-#amwal-chatbot
 ---
-title: 'Amwal Chatbot: Development and Evaluation of a Source-Grounded RAG for Indonesian Islamic Philanthropy Law'
-author:
-  - 'Annisa Nur Fauzi'
-  - 'Irmasari Hafidz'
-  - 'Najwan Firdaus Haris'
-  - 'Nur Aini Rakhmawati'
-affiliation: 'Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia'
+title: "Amwal Chatbot: Source-Grounded Retrieval-Augmented Generation for Enhancing Public Access to Indonesian Islamic Philanthropy Regulations"
+author: "Annisa Nur Fauzi, Irmasari Hafidz*, Najwan Firdaus, Haris Nur Aini Rakhmawati *)corresponding author"
+date: "30/10/2026"
+output: 
 ---
-## Repository Structure
 
-Planned organization; research files have not yet been uploaded.
+
+
+
+## Introduction
+Amwal stands for *Aplikasi Waqaf Aman Legal*. It is an Indonesian-language chatbot for questions about zakat, infaq, sadaqah, waqf, and qurban. This repository accompanies the research paper **“Amwal Chatbot: Source-Grounded Retrieval-Augmented Generation for Enhancing Public Access to Indonesian Islamic Philanthropy Regulations”** The paper is submitted to the IEEE 2026 8th Symposium on Future Telecommunication Technologies (SOFTT), under the theme “Forging Trustworthy and Sustainable Telecommunication Systems in the AI and Quantum Era.”
+
+The system combines retrieval-augmented generation (RAG), query normalization, cross-encoder re-ranking, and source citations to provide answers grounded in publicly available Indonesian regulations, fatwas, and educational materials, including documents from the Ministry of Religious Affairs, Badan Wakaf Indonesia (BWI), Badan Amil Zakat Nasional (BAZNAS), and the Indonesian Ulema Council (MUI), including its National Sharia Council (DSN-MUI).
+
+## Repository Structure
 
 ```text
 amwal-chatbot/
@@ -19,12 +22,6 @@ amwal-chatbot/
 ├── evaluation/     # Ragas evaluation and statistical analysis
 └── README.md       # Project introduction
 ```
-
-## Introduction
-
-This repository accompanies the research paper **"Amwal Chatbot: Development and Evaluation of a Source-Grounded RAG for Indonesian Islamic Philanthropy Law."**
-
-Amwal provides Indonesian-language answers about zakat, infaq, sadaqah, waqf, and qurban using retrieval-augmented generation (RAG). The system combines query normalization, document retrieval, cross-encoder re-ranking, and source citations to make answers traceable to their references.
 
 ## Dataset
 
@@ -47,7 +44,7 @@ GPT-4o mini’s Factual Correctness increased from 0.357 without retrieval to 0.
 
 ## Acknowledgment
 
-The authors thank Yayasan Manarul Ilmi (YMI) ITS for supporting this study as a pilot project.
+This research is funded by the Higher Education Technology and Innovation (HETI) Project ADB Loan 4110-INO under Contract Number 0008/01.PKS/PPK-HETI/ITS/2026. The authors gratefully acknowledge the cooperation of Yayasan Manarul Ilmi and Masjid Manarul Ilmi at Institut Teknologi Sepuluh Nopember for their support during the chatbot development.
 
 ## Disclaimer
 
