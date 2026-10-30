@@ -8,7 +8,7 @@ conference: "Submission for the IEEE 2026 8th Symposium on Future Telecommunicat
 
 
 
-## Introduction
+## Introduction #amwal-chatbot
 Amwal stands for *Aplikasi Waqaf Aman Legal*. It is an Indonesian-language chatbot for questions about zakat, infaq, sadaqah, waqf, and qurban. This repository accompanies the research paper **“Amwal Chatbot: Source-Grounded Retrieval-Augmented Generation for Enhancing Public Access to Indonesian Islamic Philanthropy Regulations”** The paper is submitted to the IEEE 2026 8th Symposium on Future Telecommunication Technologies (SOFTT), under the theme “Forging Trustworthy and Sustainable Telecommunication Systems in the AI and Quantum Era.”
 
 The system combines retrieval-augmented generation (RAG), query normalization, cross-encoder re-ranking, and source citations to provide answers grounded in publicly available Indonesian regulations, fatwas, and educational materials, including documents from the Ministry of Religious Affairs, Badan Wakaf Indonesia (BWI), Badan Amil Zakat Nasional (BAZNAS), and the Indonesian Ulema Council (MUI), including its National Sharia Council (DSN-MUI).
