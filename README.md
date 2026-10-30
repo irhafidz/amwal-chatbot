@@ -1,6 +1,6 @@
 ---
 title: "Amwal Chatbot: Development and Evaluation of a Source-Grounded RAG for Indonesian Islamic Philanthropy Law"
-author: "Annisa Nur Fauzi, Irmasari Hafidz, Najwan Firdaus Haris, Nur Aini Rakhmawati"
+author: "Annisa Nur Fauzi, Irmasari Hafidz*, Najwan Firdaus Haris, Nur Aini Rakhmawati" *corresponding author: irma (at) its.ac.id
 affiliation: "Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia"
 ---
 
