@@ -2,7 +2,7 @@
 title: "Amwal Chatbot: Source-Grounded Retrieval-Augmented Generation for Enhancing Public Access to Indonesian Islamic Philanthropy Regulations"
 author: "Annisa Nur Fauzi, Irmasari Hafidz*, Najwan Firdaus, Haris Nur Aini Rakhmawati *corresponding author"
 date: "30/10/2026"
-conference: "Submission for the IEEE 2026 8th Symposium on Future Telecommunication Technologies (SOFTT)"
+conference: "Submission for the IEEE 2026 8th Symposium on Future Telecommunication Technologies (SOFTT). 1-2 December, Yogyakarta, Indonesia"
 ---
 
 
