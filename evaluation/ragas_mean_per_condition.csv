@@ -1,0 +1,9 @@
+,,faithfulness,faithfulness,answer_relevancy,answer_relevancy,context_recall,context_recall,factual_correctness,factual_correctness
+,,mean,std,mean,std,mean,std,mean,std
+model,skenario,,,,,,,,
+gemini-3.6-flash,I,,,0.857,0.103,,,0.456,0.245
+gemini-3.6-flash,II,0.9,0.254,0.798,0.285,0.454,0.37,0.469,0.307
+gemini-3.6-flash,III,0.956,0.16,0.823,0.232,0.509,0.337,0.514,0.286
+gpt-4o-mini,I,,,0.912,0.084,,,0.357,0.206
+gpt-4o-mini,II,0.92,0.14,0.913,0.155,0.454,0.37,0.472,0.261
+gpt-4o-mini,III,0.939,0.114,0.924,0.077,0.509,0.337,0.516,0.255

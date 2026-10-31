@@ -1,6 +1,6 @@
 ---
 title: "Amwal Chatbot: Source-Grounded Retrieval-Augmented Generation for Enhancing Public Access to Indonesian Islamic Philanthropy Regulations"
-author: "Annisa Nur Fauzi, Irmasari Hafidz*, Najwan Firdaus, Haris Nur Aini Rakhmawati *corresponding author"
+author: "Annisa Nur Fauzi, Irmasari Hafidz*, Najwan Firdaus Haris, Nur Aini Rakhmawati *corresponding author"
 date: "30/10/2026"
 conference: "Submission for the IEEE 2026 8th Symposium on Future Telecommunication Technologies (SOFTT), 1-2 December, Yogyakarta, Indonesia"
 ---
@@ -25,7 +25,7 @@ amwal-chatbot/
 
 ## Dataset
 
-- 68 Indonesian documents: 41 regulatory and 27 educational documents.
+- 68 Indonesian documents: 41 regulatory and 27 educational documents. Full PDFs: [Google Drive](https://drive.google.com/drive/folders/1XUAsv2chiUNKnqNzQbnOm-uvxOwHuz7X?usp=sharing).
 - 2,618 indexed text chunks.
 - 50 expert-validated evaluation questions across four topic groups and three difficulty levels.
 - User acceptance evaluation involving 30 respondents.

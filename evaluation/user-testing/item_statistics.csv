@@ -1,0 +1,10 @@
+item,dimension,n,mean,sd,agree_4_5_percent
+C1,Effectiveness,30,4.47,0.78,90
+C2,Efficiency,30,4.33,0.8,80
+C3,Openness,30,4.67,0.61,93
+C4,Professionalism,30,4.5,0.68,90
+C5,Accountability,30,4.67,0.61,93
+C6,Trust,30,4.33,0.8,87
+C7,Acceptability,30,4.5,0.68,90
+C8,User satisfaction,30,4.6,0.81,87
+C9,Clarity,30,4.53,0.68,90

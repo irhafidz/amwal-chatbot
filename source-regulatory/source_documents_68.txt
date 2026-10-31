@@ -1,0 +1,75 @@
+Amwal Chatbot - Source documents of the knowledge base (68 PDF files)
+
+Full PDF files: https://drive.google.com/drive/folders/1XUAsv2chiUNKnqNzQbnOm-uvxOwHuz7X?usp=sharing
+
+REG = regulatory document (statute, regulation, fatwa); LIT = literacy document (educational article, guidebook).
+
+No	Code	Domain	Type	Document	Pages	File name
+1	KRB-LIT-01	Qurban	Literacy	Fikih Kurban Praktis (LBM-NU Kota Kediri)	44	KRB-LIT-01_Panduan-Fikih-Kurban-PWNU-Kediri.pdf
+2	KRB-REG-01	Qurban	Regulatory	Permentan No. 114 Tahun 2014	19	KRB-REG-01_Permentan-114-2014.pdf
+3	KRB-REG-02	Qurban	Regulatory	Fatwa MUI No. 37 Tahun 2019	7	KRB-REG-02_FatwaMUI-37-2019.pdf
+4	KRB-REG-03	Qurban	Regulatory	Fatwa MUI No. 34 Tahun 2023	12	KRB-REG-03_FatwaMUI-34-2023.pdf
+5	KRB-REG-04	Qurban	Regulatory	Fatwa MUI No. 32 Tahun 2022	14	KRB-REG-04_FatwaMUI-32-2022.pdf
+6	WKF-LIT-01	Waqf	Literacy	Buku Panduan Wakaf (Kementerian Agama)	169	WKF-LIT-01_Panduan-Wakaf-Kemenag-2013.pdf
+7	WKF-LIT-02	Waqf	Literacy	Artikel BWI: Definisi Wakaf Uang	3	WKF-LIT-02_Definisi-Wakaf-Uang-BWI.pdf
+8	WKF-LIT-03	Waqf	Literacy	Artikel BWI: Jenis Harta Benda Wakaf	2	WKF-LIT-03_Jenis-Harta-Benda-Wakaf-BWI.pdf
+9	WKF-LIT-04	Waqf	Literacy	Artikel BWI: Kisah Inspirasi Abu Thalhah	1	WKF-LIT-04_Kisah-Inspirasi-Abu-Thalhah-Wakaf-BWI.pdf
+10	WKF-LIT-05	Waqf	Literacy	Artikel BWI: Pelaporan Nazhir	2	WKF-LIT-05_Pelaporan-Nazhir-BWI.pdf
+11	WKF-LIT-06	Waqf	Literacy	Artikel BWI: Pendaftaran Nazhir	4	WKF-LIT-06_Pendaftaran-Nazhir-BWI.pdf
+12	WKF-LIT-07	Waqf	Literacy	Artikel BWI: Pengertian Harta Benda Wakaf	2	WKF-LIT-07_Pengertian-Harta-Benda-Wakaf-BWI.pdf
+13	WKF-LIT-08	Waqf	Literacy	Artikel BWI: Pengertian Nazhir Wakaf	1	WKF-LIT-08_Pengertian-Nazhir-Wakaf-BWI.pdf
+14	WKF-LIT-09	Waqf	Literacy	Artikel BWI: Pengertian Wakaf	3	WKF-LIT-09_Pengertian-Wakaf-BWI.pdf
+15	WKF-LIT-10	Waqf	Literacy	Artikel BWI: Pengertian Wakif	2	WKF-LIT-10_Pengertian-Wakif-BWI.pdf
+16	WKF-LIT-11	Waqf	Literacy	Artikel BWI: Penggantian Nazhir	2	WKF-LIT-11_Penggantian-Nazhir-BWI.pdf
+17	WKF-LIT-12	Waqf	Literacy	Artikel BWI: Perbedaan Wakaf Uang dan Wakaf melalui Uang	1	WKF-LIT-12_Perbedaan-Wakaf-Uang-dan-Wakaf-BWI.pdf
+18	WKF-LIT-13	Waqf	Literacy	Artikel BWI: Perbedaan Wakaf, Zakat, Infak, dan Sedekah	1	WKF-LIT-13_Perbedaan-Wakaf-Zakat-Infak-dan-BWI.pdf
+19	WKF-LIT-14	Waqf	Literacy	Artikel BWI: Persyaratan Pendaftaran Nazhir Wakaf Uang	2	WKF-LIT-14_Persyaratan-Pendaftaran-Nazhir-BWI.pdf
+20	WKF-LIT-15	Waqf	Literacy	Artikel BWI: Sejarah Awal Mula Wakaf	1	WKF-LIT-15_Sejarah-Awal-Mula-Wakaf-BWI.pdf
+21	WKF-LIT-16	Waqf	Literacy	Artikel BWI: Sejarah Perkembangan Wakaf	3	WKF-LIT-16_Sejarah-Perkembangan-Wakaf-BWI.pdf
+22	WKF-LIT-17	Waqf	Literacy	Artikel BWI: Sengketa Nazhir	2	WKF-LIT-17_Sengketa-Nazhir-BWI.pdf
+23	WKF-LIT-18	Waqf	Literacy	Artikel BWI: Syarat dan Ketentuan Nazhir	1	WKF-LIT-18_Syarat-dan-Ketentuan-Nazhir-BWI.pdf
+24	WKF-LIT-19	Waqf	Literacy	Artikel BWI: Tata Cara Berwakaf Tanah	1	WKF-LIT-19_Tata-Cara-Berwakaf-Tanah-BWI.pdf
+25	WKF-LIT-20	Waqf	Literacy	Artikel BWI: Tukar Menukar Harta Benda Wakaf	2	WKF-LIT-20_Tukar-Menukar-Harta-Benda-Wakaf-BWI.pdf
+26	WKF-LIT-21	Waqf	Literacy	Artikel BWI: Wakaf Produktif di Zaman Rasulullah	3	WKF-LIT-21_Wakaf-Produktif-Di-Zaman-Rasulullah-BWI.pdf
+27	WKF-LIT-22	Waqf	Literacy	Artikel BWI: Wakaf Sumur Sahabat Utsman bin Affan	2	WKF-LIT-22_Wakaf-Sumur-Sahabat-Utsman-bin-Affan-BWI.pdf
+28	WKF-LIT-23	Waqf	Literacy	Artikel BWI: Wakaf Uang di Indonesia	2	WKF-LIT-23_Wakaf-Uang-di-Indonesia-BWI.pdf
+29	WKF-REG-01	Waqf	Regulatory	Fatwa MUI No. 2 Tahun 2002	8	WKF-REG-01_FatwaMUI-2-2002.pdf
+30	WKF-REG-02	Waqf	Regulatory	UU No. 41 Tahun 2004	40	WKF-REG-02_UU-41-2004.pdf
+31	WKF-REG-03	Waqf	Regulatory	PP No. 42 Tahun 2006	47	WKF-REG-03_PP-42-2006.pdf
+32	WKF-REG-04	Waqf	Regulatory	Peraturan BWI No. 1 Tahun 2008	7	WKF-REG-04_PBWI-1-2008.pdf
+33	WKF-REG-05	Waqf	Regulatory	Peraturan BWI No. 3 Tahun 2008	5	WKF-REG-05_PBWI-3-2008.pdf
+34	WKF-REG-06	Waqf	Regulatory	Keputusan Dirjen Bimas Islam No. Dj.II/420 Tahun 2009	25	WKF-REG-06_Kepdirjen-dj-ii-420-2009.pdf
+35	WKF-REG-07	Waqf	Regulatory	Permenag No. 4 Tahun 2009	7	WKF-REG-07_Permenag-4-2009.pdf
+36	WKF-REG-08	Waqf	Regulatory	Peraturan BWI No. 1 Tahun 2009	10	WKF-REG-08_PBWI-1-2009.pdf
+37	WKF-REG-09	Waqf	Regulatory	Peraturan BWI No. 2 Tahun 2010	4	WKF-REG-09_PBWI-2-2010.pdf
+38	WKF-REG-10	Waqf	Regulatory	Peraturan BWI No. 3 Tahun 2012	6	WKF-REG-10_PBWI-3-2012.pdf
+39	WKF-REG-11	Waqf	Regulatory	Permenag No. 73 Tahun 2013	20	WKF-REG-11_Permenag-73-2013.pdf
+40	WKF-REG-12	Waqf	Regulatory	Permen ATR/BPN No. 2 Tahun 2017	18	WKF-REG-12_Permen-2-2017.pdf
+41	WKF-REG-13	Waqf	Regulatory	PP No. 25 Tahun 2018	12	WKF-REG-13_PP-25-2018.pdf
+42	WKF-REG-14	Waqf	Regulatory	Keputusan Dirjen Bimas Islam No. 659 Tahun 2018	31	WKF-REG-14_Kepdirjen-659-2018.pdf
+43	WKF-REG-15	Waqf	Regulatory	Peraturan BWI No. 3 Tahun 2020	5	WKF-REG-15_PBWI-3-2020.pdf
+44	WKF-REG-16	Waqf	Regulatory	Peraturan BWI No. 1 Tahun 2020	21	WKF-REG-16_PBWI-1-2020.pdf
+45	WKF-REG-17	Waqf	Regulatory	Peraturan Ketua Badan Pelaksana BWI No. 1/BP Tahun 2021	10	WKF-REG-17_PBWI-1bp-2021.pdf
+46	WKF-REG-18	Waqf	Regulatory	Peraturan BWI No. 1 Tahun 2021	28	WKF-REG-18_PBWI-01-2021.pdf
+47	WKF-REG-20	Waqf	Regulatory	Keputusan Dirjen Bimas Islam No. 564 Tahun 2022	16	WKF-REG-20_Kepdirjen-564-2022.pdf
+48	WKF-REG-21	Waqf	Regulatory	Keputusan Dirjen Bimas Islam No. 565 Tahun 2022	33	WKF-REG-21_Kepdirjen-565-2022.pdf
+49	WKF-REG-22	Waqf	Regulatory	Fatwa DSN-MUI No. 106 Tahun 2016	6	WKF-REG-22_FatwaDSN-106-2016.pdf
+50	WKF-REG-23	Waqf	Regulatory	Fatwa DSN-MUI No. 131 Tahun 2019	11	WKF-REG-23_FatwaDSN-131-2019.pdf
+51	ZKT-LIT-01	Zakat, infaq and sadaqah	Literacy	Kajian Nisab Zakat Pendapatan dan Jasa 2026 (Puskas BAZNAS)	58	ZKT-LIT-01_Kajian-Nisab-Zakat-BAZNAS-2026.pdf
+52	ZKT-LIT-02	Zakat, infaq and sadaqah	Literacy	Panduan Praktis Zakat, Infak dan Shadaqah (BAZNAS DKI Jakarta)	71	ZKT-LIT-02_Buku-Panduan-ZIS-lengkap-BAZNAS.pdf
+53	ZKT-LIT-03	Zakat, infaq and sadaqah	Literacy	Panduan Praktis Memahami Zakat, Infaq, Shadaqah, Wakaf dan Pajak (Zulkifli)	197	ZKT-LIT-03_Panduan-Praktis-ZIS-Wakaf-Pajak-Zulkifli.pdf
+54	ZKT-REG-01	Zakat, infaq and sadaqah	Regulatory	Fatwa MUI No. 3 Tahun 2003	5	ZKT-REG-01_MUI-03-2003.pdf
+55	ZKT-REG-02	Zakat, infaq and sadaqah	Regulatory	UU No. 23 Tahun 2011	29	ZKT-REG-02_UU-23-2011.pdf
+56	ZKT-REG-03	Zakat, infaq and sadaqah	Regulatory	Permenag No. 52 Tahun 2014	14	ZKT-REG-03_Permenag-52-2014.pdf
+57	ZKT-REG-04	Zakat, infaq and sadaqah	Regulatory	PP No. 14 Tahun 2014	52	ZKT-REG-04_PP-14-2014.pdf
+58	ZKT-REG-05	Zakat, infaq and sadaqah	Regulatory	Permenag No. 69 Tahun 2015	6	ZKT-REG-05_Permenag-69-2015.pdf
+59	ZKT-REG-06	Zakat, infaq and sadaqah	Regulatory	Peraturan BAZNAS No. 3 Tahun 2018	14	ZKT-REG-06_BAZNAS-3-2018.pdf
+60	ZKT-REG-07	Zakat, infaq and sadaqah	Regulatory	Permenag No. 31 Tahun 2019	4	ZKT-REG-07_Permenag-31-2019.pdf
+61	ZKT-REG-08	Zakat, infaq and sadaqah	Regulatory	Fatwa MUI tentang Zakat Jasa (1982)	7	ZKT-REG-08_FatwaMUI-1982-Zakat-Jasa.pdf
+62	ZKT-REG-09	Zakat, infaq and sadaqah	Regulatory	Fatwa MUI tentang Tasaruf Zakat (1982)	5	ZKT-REG-09_FatwaMUI-1982-Tasaruf-Zakat.pdf
+63	ZKT-REG-10	Zakat, infaq and sadaqah	Regulatory	Fatwa MUI No. Kep.-120/MU/II/1996	3	ZKT-REG-10_FatwaMUI-1996-Zakat-Beasiswa.pdf
+64	ZKT-REG-11	Zakat, infaq and sadaqah	Regulatory	Fatwa MUI No. 4 Tahun 2003	6	ZKT-REG-11_FatwaMUI-4-2003.pdf
+65	ZKT-REG-12	Zakat, infaq and sadaqah	Regulatory	Fatwa MUI No. 23 Tahun 2020	9	ZKT-REG-12_FatwaMUI-23-2020.pdf
+66	ZKT-REG-13	Zakat, infaq and sadaqah	Regulatory	Fatwa MUI No. 65 Tahun 2022	7	ZKT-REG-13_FatwaMUI-65-2022.pdf
+67	ZKT-REG-14	Zakat, infaq and sadaqah	Regulatory	Fatwa MUI No. 66 Tahun 2022	11	ZKT-REG-14_FatwaMUI-66-2022.pdf
+68	ZKT-REG-15	Zakat, infaq and sadaqah	Regulatory	Fatwa MUI No. 67 Tahun 2022	4	ZKT-REG-15_FatwaMUI-67-2022.pdf
